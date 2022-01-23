@@ -9,7 +9,8 @@ Accountability Accounting, an investment bank, is interested in offering a new c
 3. Clustering cryptocurrencies using K-Means algorithm
 4. Visualizing the cryptocurrencies results
 
-### Script:  
+### Script with results:  
+https://github.com/SJLewer/Cryptocurrencies/blob/main/crypto_clustering.ipynb
 ___
 _Data Source:_ CryptoCompare (https://min-api.cryptocompare.com/data/all/coinlist)
 
